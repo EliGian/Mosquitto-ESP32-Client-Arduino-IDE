@@ -80,11 +80,4 @@ Before running the code, ensure you have the following:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any questions or feedback, please contact:
-
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-
-Happy coding!
